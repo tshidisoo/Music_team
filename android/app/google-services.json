@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "257658860675",
+    "project_id": "qhawekazi-4cdea",
+    "storage_bucket": "qhawekazi-4cdea.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:257658860675:android:452c500be7028cc76c57b6",
+        "android_client_info": {
+          "package_name": "com.musicteam.music_team_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "257658860675-jv2u9otqcdknlo2l8k32smo1oj2nvorn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXCCvxri0fa8ZgllR_7WVGug67bG8cklE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "257658860675-jv2u9otqcdknlo2l8k32smo1oj2nvorn.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "257658860675-464vr5l9ea6eml675kren1ofdo2slc2o.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.musicteam.musicTeamApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
